@@ -6,13 +6,31 @@ body{
     font-family: 'IBM Plex Serif', serif;
 }
 .header-section{
-    background-image:url(../images/header-bg.jpg);
+    background-image:url(../images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
     width: 100%;
-    text-align: center;
+    text-align: center ;
 }
 h1{
-    padding-top: 20%;
+    font-size: 50px;
+    color: #fff;
+    padding-top: 40%;
+}
+h6{
+    color: #ddd;
+    font-size: 18px;
+    font-weight: normal;
+    padding-bottom: 30px;
+}
+.header-text{
+    padding:0px 30%;
+}
+.donate-button{
+    text-decoration: none;
+    color:#fff;
+    background-color:#FF5959;
+    padding: 10px 30px;
+    border-radius: 5px;
 }
