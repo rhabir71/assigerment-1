@@ -134,10 +134,6 @@ h6{
     padding: 8px 15px;
     border-radius: 5px 0 0 5px;
 }
-.subscribe-form input:active{
-    border:none;
-    outline: none;
-}
 .subscribe-form button {
     background-color: #FF5959;
     box-sizing: border-box;
@@ -150,3 +146,13 @@ h6{
     font-weight: bold;
 }
 /*======footer top end here======*/
+footer{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0px;
+    margin-top: 100px;
+}
+footer h3{
+    color: #FF5959;
+}
