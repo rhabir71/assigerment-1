@@ -97,17 +97,20 @@ h6{
     background-color: #EDF5F6;
     padding: 5% 2%;
     border-radius: 5px;
+    width: 50%;
 }
 .shelter{
     margin: 0px 2%;
     background-color: #FFEEEE;
     padding: 5% 2%;
     border-radius: 5px;
+    width: 50%;
 }
 .education{
     margin: 0px 2%;
     background-color: #FFF4D6;
     padding: 5% 2%;
+    width: 50%;
     border-radius: 5px;
 }
 /*=======Donate section end here=======*/
