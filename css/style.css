@@ -111,7 +111,37 @@ h6{
     border-radius: 5px;
 }
 /*=======Donate section end here=======*/
+<<<<<<< HEAD
 
+=======
+.Volunteer-section {
+    margin: 12% 10%;
+    background-color: #F4F9FF;
+    padding: 0 3%;
+}
+.volunteer-left{
+    background-image: url(../images/blob-1.svg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+}
+.volunteer-left img {
+    width: 70%;
+    margin-top: -60px;
+    margin-bottom: -5px;
+}
+
+.volunteer-right {
+    width: 50%;
+    margin-top: 7%;
+}
+.volunteer-right p{
+    margin-bottom: 30px;
+}
+
+/*======volunteer section end here========*/
+>>>>>>> rakib
 .footer-top{
     text-align: center;
     width: 55%;
