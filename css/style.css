@@ -115,6 +115,50 @@ h6{
     border-radius: 5px;
 }
 /*=======Donate section end here=======*/
+.contribute-section{
+    align-items: center;
+    margin-top: 15%;
+}
+.contribute-section p{
+    margin-bottom: 30px;
+}
+.contribute-text{
+    width: 50%;
+    margin-left: 12%;
+    margin-right: 2%;
+}
+.contribute-image{
+    width:50%;
+    margin: 0px 2%;
+}
+.contribute-image img{
+    width: 77%;
+}
+/*======contribute sction end here======*/
+
+.suvive-section{
+    align-items: center;
+    margin-top: 10%;
+}
+.suvive-section p{
+    margin-bottom: 30px;
+}
+.suvive-text{
+    width: 50%;
+    margin-left:2%;
+    margin-right: 10%;
+}
+.suvive-image{
+    width:50%;
+    margin-left: 12%;
+    margin-right: 3%;
+}
+.suvive-image img{
+    width: 100%;
+}
+
+/*=======suvive section end here=====*/
+
 .Volunteer-section {
     margin: 12% 10%;
     background-color: #F4F9FF;
